@@ -1,44 +1,42 @@
-# Windows 11 
+# Windows 11
 
-this is **Windows 11 ** build by the using **HTML, CSS, and JavaScript**.  
-This project focuses on **design and layout** of Windows 11 for learning how to build iconic layout and improve logical patterns .
-
----
-
-## playable link
--- https://imnavneetgurjar.github.io/windows/
+The main focus of this project is on design and layout of Windows 11 to practice frontend skills and understand how iconic UI layouts are made.
 
 ---
 
-## repository
- https://github.com/imnavneetgurjar/windows/
+## Live Demo
+https://imnavneetgurjar.github.io/clock/
 
 ---
 
-##  Features
-- design inspired by windows 11
-- Modern desigine
-- simpel and smoth layout
-- Core UI elements are functional
-- No placeholder content
+## Repository
+https://github.com/imnavneetgurjar/windows/
 
 ---
 
-## Tech use 
+## Features
+- Design inspired from Windows 11  
+- Modern looking interface  
+- Simple and smooth layout   
+
+---
+
+## Tech Used
 - HTML5  
 - CSS3  
 - JavaScript  
 
 ---
 
-## 📸 Screenshot
-<img width="1918" height="899" alt="Screenshot 2025-12-19 193233" src="https://github.com/user-attachments/assets/060df1e4-a7ce-4086-9fab-1d7f9870e62e" />
+## Screenshot
+<img width="1809" height="843" alt="Screenshot 2025-12-19 195533" src="https://github.com/user-attachments/assets/fa2fa021-58cf-4b82-ad96-4a1631bcc9bb" />
 
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. Clone the repository
 ```bash
-git clone  https://github.com/imnavneetgurjar/windows/
+
+https://github.com/imnavneetgurjar/windows.git
