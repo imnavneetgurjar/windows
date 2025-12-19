@@ -1,31 +1,30 @@
-# 🪟 Windows 11 Layout Clone
+# Windows 11 
 
-A clean and responsive **Windows 11 UI layout clone** created using **HTML, CSS, and JavaScript**.  
-This project focuses on replicating the **visual design and layout** of Windows 11 for learning and practice purposes.
-
----
-
-## 🚀 Live Demo
-👉 https://imnavneetgurjar.github.io/windows/
+this is **Windows 11 ** build by the using **HTML, CSS, and JavaScript**.  
+This project focuses on **design and layout** of Windows 11 for learning how to build iconic layout and improve logical patterns .
 
 ---
 
-## 📂 GitHub Repository
-👉 https://github.com/imnavneetgurjar/windows/
+## playable link
+-- https://imnavneetgurjar.github.io/windows/
 
 ---
 
-## ✨ Features
-- Windows 11 inspired UI design
-- Modern taskbar layout
-- Clean and minimal interface
-- Fully responsive layout
+## repository
+ https://github.com/imnavneetgurjar/windows/
+
+---
+
+##  Features
+- design inspired by windows 11
+- Modern desigine
+- simpel and smoth layout
 - Core UI elements are functional
 - No placeholder content
 
 ---
 
-## 🛠️ Tech Stack
+## Tech use 
 - HTML5  
 - CSS3  
 - JavaScript  
@@ -36,11 +35,9 @@ This project focuses on replicating the **visual design and layout** of Windows 
 <img width="1918" height="899" alt="Screenshot 2025-12-19 193233" src="https://github.com/user-attachments/assets/060df1e4-a7ce-4086-9fab-1d7f9870e62e" />
 
 
-> Make sure the screenshot file is named `screenshot.png` or update the path accordingly.
-
 ---
 
-## ⚙️ Installation & Setup
+## ⚙️ Installation
 
 1. Clone the repository
 ```bash
