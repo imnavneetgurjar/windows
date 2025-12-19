@@ -29,7 +29,8 @@ https://github.com/imnavneetgurjar/windows/
 ---
 
 ## Screenshot
-<img width="1809" height="843" alt="Screenshot 2025-12-19 195533" src="https://github.com/user-attachments/assets/fa2fa021-58cf-4b82-ad96-4a1631bcc9bb" />
+<img width="1147" height="859" alt="image" src="https://github.com/user-attachments/assets/33995a68-e7ce-46c3-84f3-66345cbb1abd" />
+
 
 
 ---
