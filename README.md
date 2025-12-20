@@ -1,43 +1,69 @@
-# Windows 11
+# Windows 11 
 
-The main focus of this project is on design and layout of Windows 11 to practice frontend skills and understand how iconic UI layouts are made.
-
----
-
-## Live Demo
-https://imnavneetgurjar.github.io/clock/
+This project is a Windows 11 inspired animated UI layout by the using frontend technologie.  
+It focuse on new, smooth, and clean layout like Windows 11.
 
 ---
 
-## Repository
-https://github.com/imnavneetgurjar/windows/
+## Project Type
+-  Frontend Only
+-  UI / UX Design
+-  Windows 11 Inspire
+
+---
+
+## playable url
+https://imnavneetgurjar.github.io/windows/
+
+---
+
+## project screenshort
+<img width="1918" height="899" alt="Screenshot 2025-12-19 193233" src="https://github.com/user-attachments/assets/ab8e966b-3cb5-4492-8a2e-80f7ff4d0cfc" />
 
 ---
 
 ## Features
-- Design inspired from Windows 11  
-- Modern looking interface  
-- Simple and smooth layout   
+- Windows 11 inspire
+- Smooth windows
+- Clean layout  
+- Fully frontend
 
 ---
 
-## Tech Used
-- HTML5  
-- CSS3  
-- JavaScript  
+## 🛠️ Technologi
+- HTML  
+- CSS  
+- JavaScript
 
 ---
 
-## Screenshot
-<img width="1147" height="859" alt="image" src="https://github.com/user-attachments/assets/33995a68-e7ce-46c3-84f3-66345cbb1abd" />
-
+## Project Structure
+windows11-ui/
+│
+├── index.html # Main HTML file
+├── style.css # Styling & animations
+├── script.js # JavaScript logic
+├── assets/ # Icons & images
+└── README.md # Documentation
 
 
 ---
 
-## Installation
+## 🚀 Getting Started
 
-1. Clone the repository
+Follow the steps for run the project .
+
+###  Prerequisites
+- Any browser (Chrome, Edge, Firefox)
+
+---
+
+###  Installation
+
+#### Option 1: Download ZIP
+1. Click **Code → Download ZIP**
+2. Extract the files
+
+#### Option 2: Clone Repository
 ```bash
-
-https://github.com/imnavneetgurjar/windows.git
+git clone https://github.com/your-username/windows11-ui.git
